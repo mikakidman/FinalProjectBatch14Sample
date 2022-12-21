@@ -10,5 +10,11 @@ public class Main {
         Fxron.color="green";
         Fxron.size="12345km";
         Fxron.temp="256";
+
+        Planet1 mars = new Planet1();
+        mars.color="orange";
+        mars.size=12345;
+        mars.rings="5";
+        mars.temp="95";
     }
 }
