@@ -11,10 +11,18 @@ public class Main {
         Fxron.size="12345km";
         Fxron.temp="256";
 
+
         Planet1 mars = new Planet1();
         mars.color="orange";
         mars.size=12345;
         mars.rings="5";
         mars.temp="95";
+
+        Planet2 neptun = new Planet2();
+        neptun.color="yellow";
+        neptun.size=456;
+        neptun.temp="98";
+        neptun.rings="1";
+
     }
 }
