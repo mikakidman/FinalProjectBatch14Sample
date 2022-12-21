@@ -10,5 +10,11 @@ public class Main {
         Fxron.color="green";
         Fxron.size="12345km";
         Fxron.temp="256";
+
+        Planet2 neptun = new Planet2();
+        neptun.color="yellow";
+        neptun.size=456;
+        neptun.temp="98";
+        neptun.rings="1";
     }
 }
